@@ -2,5 +2,9 @@
 *.tif
 *.xml
 *.nc
+*.txt
+*.joblib
+*.pkl
+**/*.zarr/
 __pycache__
 dask-worker-space
